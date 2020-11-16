@@ -2,7 +2,6 @@
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <title>{textnumrandom,8,2}</title>
   </head>
   <body>
     <div style="caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-family: -apple-system, HelveticaNeue; font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); -webkit-text-size-adjust: none; -webkit-text-stroke-width: 0px; text-decoration: none;">

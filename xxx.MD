@@ -21,10 +21,10 @@
               <div class="content" style="padding: 10px; box-sizing: border-box; display: block; max-width: 600px; margin: 0px auto;">
                 <div class="header" style="box-sizing: border-box; width: 313px; margin-bottom: 30px; margin-top: 15px;">
                   <meta charset="utf-8">
-                  <a href="http://url8015.nartuohlinkpar.org/ls/click?upn=g9yinE2SkxYL9fubjqHw36FDt9je2NTPcqcULb7wcLt5J25flDQd5jcifN4OlROCJS6fBuZ6dXsid00t8CDO0A-3D-3DqKOE_QZ74XjFS7q12H8oxIYTfGy9Tgp7f7KHgQ0hRW2JeCL1uL1ryrkDGBQOuSaLLju8AN6lmaDnlRsI8LZ9tVsAD8CiSBXfQWn8gxTKw2qAaDhcYLP-2BMykj24VTTvmfpdlsaTSWH8vjEbw0hZ-2FkB6HhXzFUxRU66b1dkp-2BZMNm9ber0OJumwgQKwGpLsWhF52Dzkn7fl6DxrD4CchBW-2FjOovCv9rzzkoUIEx0-2BthPQsqXmM-3D"
+                  <a href="http://google.com"
                     target="_blank"
                     style="color: #e4e1d6;"><img
-                      src="http://ow.ly/mSup50CmbE3"
+                      src="xx.png"
                       style="width: 389px; height: 345px;"></a>
                 </div>
                 <div class="block" style="box-sizing: border-box; width: 313px; margin-bottom: 30px; background-color: rgb(255, 255, 255); border: 1px solid rgb(240, 240, 240); background-position: initial initial; background-repeat: initial initial;"><br>
